@@ -2,6 +2,7 @@
 
 用keras实现ocr定位、识别，后端tensorflow
 
+* 环境 win10 titanx
 # 识别
 * crnn：vgg + blstm + blsmt + ctc 原版crnn
 测试速度较慢 32X280 耗时 60ms ,放弃优化。
