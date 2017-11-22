@@ -1,6 +1,10 @@
-# keras_ocr
+# 简介
 
-用keras实现ocr定位、识别
+用keras实现ocr定位、识别，后端tensorflow
 
-# 2017-11-22
-densenet-ocr 
+
+* densenet-ocr ：densent + ctc 无lstm
+是对caffe_cor的复现 https://github.com/senlinuc/caffe_ocr (包含数据集)
+
+
+
