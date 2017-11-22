@@ -16,4 +16,4 @@
 
 
 
-[!pic]https://github.com/xiaomaxiao/keras_ocr/blob/master/demo/demo1.jpg
+![](1.pnghttps://github.com/xiaomaxiao/keras_ocr/blob/master/demo/demo1.jpg)
