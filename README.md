@@ -14,7 +14,9 @@
 
 
 # 定位
-* CTPN：效果很好，且已有tensorflow实现，但是框架太重。下一步用keras实现或者用其他框架，目前还没确定
+* CTPN：效果很好，且已有tensorflow实现https://github.com/eragonruan/text-detection-ctpn，
+但是框架太重。下一步用keras实现或者用其他框架，目前还没确定
+
 
 
 
