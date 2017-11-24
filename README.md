@@ -12,6 +12,11 @@
 * densenet-ocr ：densent + ctc 无lstm
 是对caffe_cor的复现 https://github.com/senlinuc/caffe_ocr (包含数据集)
 
+| 网格结构  | GPU | 准确率 | 模型大小 |
+| ---------- | -----------| ---------- | -----------| -----------|
+| densent+ctc | 60ms |  |  |
+| densent+ctc | 8ms | 0.982 |  |
+
 
 # 定位
 * CTPN：效果很好，且已有tensorflow实现https://github.com/eragonruan/text-detection-ctpn，
