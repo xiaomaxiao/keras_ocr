@@ -1,6 +1,6 @@
 # 简介
 
-用keras实现ocr定位、识别，后端tensorflow
+用keras实现ocr定位、识别，后端tensorflow.
 
 * 环境 win10 titanx
 # 识别
@@ -14,8 +14,8 @@
 
 | 网格结构  | GPU | 准确率 | 模型大小 |
 | ---------- | -----------| ---------- | -----------|
-| crnn | 60ms |  |  |
-| densent+ctc | 8ms | 0.982 |  |
+| crnn | 60ms |  | 97.2 |
+| densent+ctc | 8ms | 0.982 | 18.9MB |
 
 
 # 定位
