@@ -6,15 +6,13 @@
 # 识别
 * crnn：vgg + blstm + blsmt + ctc 原版crnn
 测试速度较慢 32X280 耗时 60ms ,放弃优化。
-数据集是自己造的随机数据，且比较简单。如果要测试请去这里下载 https://github.com/senlinuc/caffe_ocr 语料数据集
-而且caffe_ocr的crnn更快 9ms，不知道tf和caffe差在哪里？
+数据集是自己造的随机数据，且比较简单。
 
-* densenet-ocr ：densent + ctc 无lstm
-是对caffe_cor的复现 https://github.com/senlinuc/caffe_ocr (包含数据集)
+* densenet-ocr ：densent + ctc 无lstm(数据集)
 
 | 网格结构  | GPU | 准确率 | 模型大小 |
 | ---------- | -----------| ---------- | -----------|
-| crnn | 60ms |  | 97.2 |
+| crnn | 60ms | 0.972 |  |
 | densent+ctc | 8ms | 0.982 | 18.9MB |
 
 
@@ -26,3 +24,6 @@
 
 
 ![demo](https://github.com/xiaomaxiao/keras_ocr/blob/master/demo/demo1.jpg)
+
+[1]https://github.com/eragonruan/text-detection-ctpn，
+[2]https://github.com/senlinuc/caffe_ocr
