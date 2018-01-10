@@ -8,7 +8,7 @@
 测试速度较慢 32X280 耗时 60ms ,放弃优化。
 数据集是自己造的随机数据，且比较简单。
 
-* densenet-ocr ：densent + ctc 无lstm(数据集)
+* densenet-ocr ：densent + ctc 无lstm
 
 | 网格结构  | GPU | 准确率 | 模型大小 |
 | ---------- | -----------| ---------- | -----------|
@@ -25,5 +25,7 @@
 
 ![demo](https://github.com/xiaomaxiao/keras_ocr/blob/master/demo/demo1.jpg)
 
-[1]https://github.com/eragonruan/text-detection-ctpn，
+# 参考
+[1]https://github.com/eragonruan/text-detection-ctpn
+
 [2]https://github.com/senlinuc/caffe_ocr
