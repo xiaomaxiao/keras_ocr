@@ -3,10 +3,11 @@
 用keras实现ocr定位、识别，后端tensorflow.
 
 * 环境 win10 titanx
+
 # 识别
+* 数据集链接: https://pan.baidu.com/s/1jJWfDmm 密码: vh8p (中英数300W+,语料不均衡)
+
 * crnn：vgg + blstm + blsmt + ctc 原版crnn
-测试速度较慢 32X280 耗时 60ms ,放弃优化。
-数据集是自己造的随机数据，且比较简单。
 
 * densenet-ocr ：densent + ctc 无lstm
 
@@ -17,8 +18,13 @@
 
 
 # 定位
-* CTPN：效果很好，且已有tensorflow实现https://github.com/eragonruan/text-detection-ctpn，
-但是框架太重。下一步用keras实现或者用其他框架，目前还没确定
+
+* 数据集链接: https://pan.baidu.com/s/1mj5Dj0c 密码: 6257 (ICDR 2013+少量中文)
+
+* CTPN：相较于[2]精简大量代码，更清晰易懂,代码持续整理上传中。
+
+1. 即使大部分数据集基于英文，但在中文定位中也表现良好。
+2. 各位如有中文标注的数据集愿意分享，可提issues
 
 
 
