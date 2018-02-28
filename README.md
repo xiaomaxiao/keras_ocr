@@ -7,9 +7,9 @@
 # 识别
 * 数据集链接: https://pan.baidu.com/s/1jJWfDmm 密码: vh8p (中英数300W+,语料不均衡)
 
-* crnn：vgg + blstm + blsmt + ctc 原版crnn
+* crnn：vgg + blstm + blstm + ctc 
 
-* densenet-ocr ：densent + ctc 无lstm
+* densenet-ocr ：densent + ctc 
 
 | 网格结构  | GPU | 准确率 | 模型大小 |
 | ---------- | -----------| ---------- | -----------|
