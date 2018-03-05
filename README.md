@@ -26,7 +26,7 @@
 1. 即使大部分数据集基于英文，但在中文定位中也表现良好。
 2. 各位如有中文标注的数据集愿意分享，可提issues
 
-![demo](https://github.com/xiaomaxiao/keras_ocr/blob/master/demo/ctpn_demo1.png) 
+![demo](https://github.com/xiaomaxiao/keras_ocr/blob/master/demo/ctpn_demo2.png) 
 
 
 ---
