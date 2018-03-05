@@ -340,7 +340,6 @@ def nms(dets, thresh):
 
         inds = np.where(ovr <= thresh)[0]
         order = order[inds + 1]
-
     return keep
 
 def testrpn():
