@@ -21,15 +21,10 @@
 
 * 数据集链接: https://pan.baidu.com/s/1mj5Dj0c 密码: 6257 (ICDR 2013+少量中文)
 
-* CTPN：代码持续整理上传中。
-
+* CTPN：
 1. 即使大部分数据集基于英文，但在中文定位中也表现良好。
 2. 各位如有中文标注的数据集愿意分享，可提issues
-![demo](https://github.com/xiaomaxiao/keras_ocr/blob/master/demo/ctpn_demo3.png) 
-![demo](https://github.com/xiaomaxiao/keras_ocr/blob/master/demo/ctpn_demo2.png) 
 
-
----
 ![demo](https://github.com/xiaomaxiao/keras_ocr/blob/master/demo/demo1.jpg)
 
 # 参考
