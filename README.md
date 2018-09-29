@@ -19,7 +19,7 @@
 
 # 定位
 
-* 数据集链接: https://pan.baidu.com/s/1mj5Dj0c 密码: 6257 (ICDR 2013+少量中文)
+* 链接：https://pan.baidu.com/s/1oEWTrx20G41iNaJYF-xa6w 提取码：szj7 (ICDR 2013+少量中文)
 
 * CTPN：
 1. 即使大部分数据集基于英文，但在中文定位中也表现良好。
